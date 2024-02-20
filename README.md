@@ -1,6 +1,6 @@
 
 
-## :About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=mhdalfn&style=flat-square"></h2>
+## About me  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=mhdalfn&style=flat-square"></h2>
 
 - 👋 Hi, I’m @mhdalfn
 - 👀 I’m interested in Software Testing
